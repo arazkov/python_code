@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=
+Comment[ru_RU]=
+Comment=
+Exec=/home/ara/PycharmProjects/sample_script/my_script_2.sh
+GenericName[ru_RU]=
+GenericName=
+Icon=/mnt/D/программы/украшения/иконки/уу.ico
+Keywords=
+MimeType=
+Name[ru_RU]=uTest
+Name=uTest
+Path=
+StartupNotify=true
+Terminal=true
+TerminalOptions=\s--noclose
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=wait
+X-KDE-SubstituteUID=false
+X-KDE-Username=

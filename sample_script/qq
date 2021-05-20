@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=uTest
+Comment=
+GenericName=
+Keywords=
+Exec=sh /home/ara/PycharmProjects/sample_script/my_script.sh
+Terminal=false
+Type=Application
+Icon=/mnt/D/программы/украшения/иконки/уу.ico
+Path=
+Categories=
