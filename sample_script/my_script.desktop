@@ -2,7 +2,7 @@
 Categories=
 Comment[ru_RU]=
 Comment=
-Exec=/home/ara/PycharmProjects/sample_script/my_script_2.sh
+Exec=/home/ara/python/python_code/sample_script/my_script_2.sh
 GenericName[ru_RU]=
 GenericName=
 Icon=/mnt/D/программы/украшения/иконки/уу.ico

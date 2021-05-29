@@ -3,7 +3,7 @@
 from PyQt5 import uic
 from PyQt5.QtWidgets import QApplication
 
-Form, Window = uic.loadUiType("/home/ara/PycharmProjects/sample_script/dialog.ui")
+Form, Window = uic.loadUiType("/home/ara/python/python_code/sample_script/dialog.ui")
 
 app = QApplication([])
 window = Window()
